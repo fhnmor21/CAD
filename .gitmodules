@@ -1,0 +1,15 @@
+[submodule "scad-utils"]
+	path = scad-utils
+	url = https://github.com/openscad/scad-utils.git
+[submodule "MCAD"]
+	path = MCAD
+	url = https://github.com/openscad/MCAD.git
+[submodule "BOSL2"]
+	path = BOSL2
+	url = https://github.com/revarbat/BOSL2.git
+[submodule "YAPP_Box"]
+	path = YAPP_Box
+	url = https://github.com/mrWheel/YAPP_Box.git
+[submodule "STEMFIE-file-repository"]
+	path = STEMFIE-file-repository
+	url = https://github.com/Stemfie3D/STEMFIE-file-repository.git
